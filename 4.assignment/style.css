@@ -5,7 +5,18 @@
      height: 100vh;
  }
 
- .card {
+ .card1 {
+     border: 1px solid #ccc;
+     margin: 5px;
+     width: 300px;
+     padding: 10px;
+     display: flex;
+     flex-direction: column;
+     flex: 1;
+     height: 60%;
+ }
+
+ .card2 {
      border: 1px solid #ccc;
      margin: 5px;
      width: 300px;
