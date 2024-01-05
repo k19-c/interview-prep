@@ -1,0 +1,22 @@
+ body {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+ }
+
+ .card {
+     border: 1px solid #ccc;
+     margin: 5px;
+     width: 300px;
+     padding: 10px;
+     display: flex;
+     flex-direction: column;
+     height: 50%;
+ }
+
+ .btn {
+     border: none;
+     position: absolute;
+     right: 26.3rem;
+ }

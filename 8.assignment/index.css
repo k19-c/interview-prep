@@ -1,0 +1,19 @@
+body {
+    margin: 50px;
+    position: relative;
+    width: 350px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.superscript {
+    position: relative;
+    bottom: 3.6rem;
+    left: 16.3rem;
+}
+
+.notification {
+    position: fixed;
+    bottom: 12rem;
+    left: 4rem;
+}

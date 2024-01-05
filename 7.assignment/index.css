@@ -1,0 +1,11 @@
+body {
+    margin: auto;
+    position: relative;
+
+}
+
+.superscript {
+    position: relative;
+    bottom: 3.6rem;
+    left: 16.3rem;
+}
